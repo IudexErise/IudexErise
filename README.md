@@ -25,7 +25,7 @@ priorities.</p>
 <ul>
 <li>My current project: <a href="https://links.skroy.ru/">link shortening app.</a> Check it out!</li>
 <li>Music band website: <a href="https://github.com/IudexErise/paroli-punsh">Code</a> / <a href="https://iudexerise.github.io/paroli-punsh/">Deployment</a> / <a href="https://www.figma.com/file/uEU2U66c2GYAHTEgDuRsVX/%D0%9C%D0%B0%D0%BA%D1%8D%D1%82%D1%8B?type=design&node-id=0-1&t=rloBmZVnIIjxss8y-0">Design</a> </li>
-<li>Final study project: <a href="https://github.com/IudexErise/sf-final-task">Code</a> / <a href="">Deployment</a> / <a href="https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D">Design</a> </li>
+<li>Final study project: <a href="https://github.com/IudexErise/sf-final-task">Code</a> / <a href="https://iudexerise.github.io/sf-final-task/">Deployment</a> / <a href="https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D">Design</a> </li>
 <li>Kanban board: <a href="https://github.com/IudexErise/Kanban-Board">Code</a> / <a href="">Deployment</a> / <a href="https://www.figma.com/file/gmwg0Me1T6szwVqd7KSYL6/Kanban">Design</a> </li>
 <li>JS quiz: <a href="https://github.com/IudexErise/Quiz">Code</a> / <a href="https://iudexerise.github.io/Quiz/">Deployment</a> </li>
 <li>Adaptive page with 4 breakpoints: <a href="https://github.com/IudexErise/Four-breakpoint-landing">Code</a> / <a href="https://iudexerise.github.io/Four-breakpoint-landing/">Deployment</a> / <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0">Design</a> </li>
