@@ -3,27 +3,16 @@
 <hr>
 
 <h3>About me:writing_hand:: </h3>
-<p>I`m a Front-end Developer, who derives pleasure from bringing websites
-to life. It grips me to make the site stylish and adaptive as well as work with
-its internal logic. I`m fond of studying new technologies and it doesn`t
-bother to rewrite my code to implement new libraries and make it one step
-closer to perfection.</p>
-<p>I am capable of the following: creating adaptive web pages (HTML +
-CSS/SASS + JS) and single-page applications (React), using templates in
-Figma, working with API (Axios), and applying distributed version control
-(Git).</p>
-<p>Earlier I worked as a translator and English teacher where I could fully use
-all my knowledge of English. Also, I worked in a hotel business where I
-implemented my language skills and learned a lot about teamwork and
-multitasking.</p>
-<p>I'm a good team player, always ready to face difficulties and quickly learn
-new things.</p>
-<p>Professional development and execution of interesting tasks are my top
-priorities.</p>
+
+<p>I'm a Front-end Developer with a considerable amoutn of experience in developing SPA (Single-page applications) using
+the ReactJS library and the last versions of supplemental libraries such as React Hook Form, React Router, etc. </p>
+<p>I possess a vast amount of experience in building web-application from zero both as a sole developer and as a part of a team.<p>
+<p>Moreover I have solid skills of markuping pages using HTML and CSS only and aim to take on new challenges and utilize
+my coding and debugging skills for developing new features and enhance the overall user experience.<p>
 
 <h3>My projects:desktop_computer::</h3>
-<ul>
-<li>My current project: <a href="https://links.skroy.ru/">link shortening app.</a> Check it out!</li>
+<ul><li>My current projects: 
+<a href="https://links.skroy.ru/">link shortening app</a> and <a href="https://fairy-tales-gamma.vercel.app/">tale generating app with implementation of ChatGPT.</a> Check them out!</li>
 <li>Music band website: <a href="https://github.com/IudexErise/paroli-punsh">Code</a> / <a href="https://iudexerise.github.io/paroli-punsh/">Deployment</a> / <a href="https://www.figma.com/file/uEU2U66c2GYAHTEgDuRsVX/%D0%9C%D0%B0%D0%BA%D1%8D%D1%82%D1%8B?type=design&node-id=0-1&t=rloBmZVnIIjxss8y-0">Design</a> </li>
 <li>Adaptive page with 4 breakpoints: <a href="https://github.com/IudexErise/Four-breakpoint-landing">Code</a> / <a href="https://iudexerise.github.io/Four-breakpoint-landing/">Deployment</a> / <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0">Design</a> </li>
 <li>Final study project: <a href="https://github.com/IudexErise/sf-final-task">Code</a> / <a href="https://iudexerise.github.io/sf-final-task/">Deployment</a> / <a href="https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D">Design</a> </li>
