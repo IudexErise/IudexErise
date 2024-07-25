@@ -13,8 +13,8 @@ my coding and debugging skills for developing new features and enhance the overa
 <h3>My projects:desktop_computer::</h3>
 <ul>
 <li>Pet project (board game companion app): <a href="https://github.com/IudexErise/randomatched">Code</a> / <a href="https://randomatched.vercel.app/">Deployment</a> </li>
-<li>My current projects: 
-<a href="https://links.skroy.ru/">link shortening app</a> and <a href="https://fairy-tales-gamma.vercel.app/">tale generating app with implementation of ChatGPT</a> </li>
+<li>My current project: 
+<a href="https://fairy-tales-gamma.vercel.app/">tale generating app with implementation of ChatGPT</a> </li>
 <li>Music band website: <a href="https://github.com/IudexErise/paroli-punsh">Code</a> / <a href="https://iudexerise.github.io/paroli-punsh/">Deployment</a> / <a href="https://www.figma.com/file/uEU2U66c2GYAHTEgDuRsVX/%D0%9C%D0%B0%D0%BA%D1%8D%D1%82%D1%8B?type=design&node-id=0-1&t=rloBmZVnIIjxss8y-0">Design</a> </li>
 <li>Adaptive page with 4 breakpoints: <a href="https://github.com/IudexErise/Four-breakpoint-landing">Code</a> / <a href="https://iudexerise.github.io/Four-breakpoint-landing/">Deployment</a> / <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0">Design</a> </li>
 <li>Final study project: <a href="https://github.com/IudexErise/sf-final-task">Code</a> / <a href="https://iudexerise.github.io/sf-final-task/">Deployment</a> / <a href="https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D">Design</a> </li>
