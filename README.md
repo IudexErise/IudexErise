@@ -2,7 +2,7 @@
 <h2 align="center">Front-end Developer :computer: </h2> 
 <hr>
 
-<h3>About me:writing_hand:: </h3>
+<h3>About me :writing_hand: : </h3>
 
 <p>I'm a Front-end Developer with a considerable amoutn of experience in developing SPA (Single-page applications) using
 the ReactJS library and the last versions of supplemental libraries such as React Hook Form, React Router, etc. </p>
@@ -10,7 +10,7 @@ the ReactJS library and the last versions of supplemental libraries such as Reac
 <p>Moreover I have solid skills of markuping pages using HTML and CSS only and aim to take on new challenges and utilize
 my coding and debugging skills for developing new features and enhance the overall user experience.<p>
 
-<h3>My projects:desktop_computer::</h3>
+<h3>My projects :desktop_computer: :</h3>
 <ul>
 <li>Pet project (board game companion app): <a href="https://github.com/IudexErise/randomatched">Code</a> / <a href="https://randomatched.vercel.app/">Deployment</a> </li>
 <li>My current project: 
@@ -23,12 +23,13 @@ my coding and debugging skills for developing new features and enhance the overa
 <li>Repair company langing: <a href="https://github.com/IudexErise/Repair-Design-Project">Code</a> / <a href="https://iudexerise.github.io/Repair-Design-Project/">Deployment</a> / <a href="https://www.figma.com/file/TdXgADLSbn7npH24qcjkAg/IC-%22Repair-Design-Project%22?node-id=0-1">Design</a> </li>
 </ul>
 
-<h3>My technologies:hammer_and_wrench::</h3>
+<h3>My technologies :hammer_and_wrench: :</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
