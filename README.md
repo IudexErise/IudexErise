@@ -4,11 +4,7 @@
 
 <h3>About me :writing_hand: : </h3>
 
-<p>I'm a Front-end Developer with a considerable amoutn of experience in developing SPA (Single-page applications) using
-the ReactJS library and the last versions of supplemental libraries such as React Hook Form, React Router, etc. </p>
-<p>I possess a vast amount of experience in building web-application from zero both as a sole developer and as a part of a team.<p>
-<p>Moreover I have solid skills of markuping pages using HTML and CSS only and aim to take on new challenges and utilize
-my coding and debugging skills for developing new features and enhance the overall user experience.<p>
+<p>Front-end Developer with strong experience building responsive and scalable single-page applications using React, Next.js, TypeScript, and modern tools. Skilled in delivering full product cycles — from MVP to production — both independently and in cross-functional teams. Focused on high performance, UI/UX flexibility, clean code architecture, and maintainable styling systems using SCSS, CSS Modules, and adaptive design approaches.<p>
 
 <h3>My projects :desktop_computer: :</h3>
 <ul>
