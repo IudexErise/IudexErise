@@ -4,13 +4,14 @@
 
 <h3>About me :writing_hand: : </h3>
 
-<p>Front-end Developer with strong experience building responsive and scalable single-page applications using React, Next.js, TypeScript, and modern tools. Skilled in delivering full product cycles — from MVP to production — both independently and in cross-functional teams. Focused on high performance, UI/UX flexibility, clean code architecture, and maintainable styling systems using SCSS, CSS Modules, and adaptive design approaches.<p>
+<p>Frontend Developer with 3+ years of commercial experience building SPA and SSR applications using React, Next.js, and TypeScript. Specialized in developing high-performance user interfaces, optimizing application performance, building MVPs, and integrating AI-powered services. Experienced working both as part of product teams and independently as the sole Frontend Developer.<p>
 
 <h3>My projects :desktop_computer: :</h3>
 <ul>
+<li>Current project (multi-currency budget app): <a href="https://github.com/IudexErise/pop-budget">Code</a> / <a href="https://pop-budget.vercel.app/">Deployment</a> </li>
 <li>Pet project (board game companion app): <a href="https://github.com/IudexErise/randomatched">Code</a> / <a href="https://randomatched.vercel.app/">Deployment</a> </li>
-<li>My last project: 
-<a href="https://github.com/IudexErise/goodwin/">tale generating app with implementation of ChatGPT</a> / <a href="https://goodwin-eight.vercel.app/">Deployment</a>  </li>
+<li>My last project (tale generating app with implementation of ChatGPT): 
+<a href="https://github.com/IudexErise/goodwin/">Code</a> / <a href="https://goodwin-eight.vercel.app/">Deployment</a>  </li>
 <li>Music band website: <a href="https://github.com/IudexErise/paroli-punsh">Code</a> / <a href="https://iudexerise.github.io/paroli-punsh/">Deployment</a> / <a href="https://www.figma.com/file/uEU2U66c2GYAHTEgDuRsVX/%D0%9C%D0%B0%D0%BA%D1%8D%D1%82%D1%8B?type=design&node-id=0-1&t=rloBmZVnIIjxss8y-0">Design</a> </li>
 <li>Adaptive page with 4 breakpoints: <a href="https://github.com/IudexErise/Four-breakpoint-landing">Code</a> / <a href="https://iudexerise.github.io/Four-breakpoint-landing/">Deployment</a> / <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0">Design</a> </li>
 <li>Final study project: <a href="https://github.com/IudexErise/sf-final-task">Code</a> / <a href="https://iudexerise.github.io/sf-final-task/">Deployment</a> / <a href="https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D0%A1%D0%9A%D0%90%D0%9D">Design</a> </li>
